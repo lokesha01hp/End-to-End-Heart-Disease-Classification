@@ -7,7 +7,7 @@
 
 ## Dataset
 
-- **Source:** [heart-disease.csv](https://www.kaggle.com/datasets/formyuse/heart-disease-csv) (Make sure it's in your working directory.)
+- **Source:** [heart-disease.csv](https://www.kaggle.com/datasets/formyuse/heart-disease-csv) 
 - **Features:** 13 clinical attributes
 - **Target:** `0 = No Heart Disease`, `1 = Heart Disease`
 
