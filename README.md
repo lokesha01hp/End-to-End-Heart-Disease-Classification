@@ -54,7 +54,7 @@ We also used **5-fold cross-validation** for robustness.
 
 ## Feature Importance
 
-After training, you extracted and visualized feature coefficients from the Logistic Regression model to show which features had the most impact.
+After training, you extracted and visualised feature coefficients from the Logistic Regression model to show which features had the most impact.
 
 ---
 
@@ -68,5 +68,5 @@ After training and saving the best model using `joblib`, the notebook demonstrat
   
 ## Project Status
 - Completed end-to-end ML workflow
-- Next step: deploy model with Streamlit or Flask
+- Next step: deploy model with Flask
 
