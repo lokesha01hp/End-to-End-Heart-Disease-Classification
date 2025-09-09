@@ -24,7 +24,7 @@
 ## Models Used
 
 - **Logistic Regression**
-- **K-Nearest Neighbors (KNN)**
+- **K-Nearest Neighbours (KNN)**
 - **Random Forest Classifier**
 
 ---
