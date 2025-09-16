@@ -40,7 +40,7 @@ Evaluated using:
 - Confusion Matrix
 - ROC Curve (if Scikit-learn version ≥ 1.2)
 
-We also used **5-fold cross-validation** for robustness.
+We also employed **5-fold cross-validation** to ensure robustness.
 
 ---
 
