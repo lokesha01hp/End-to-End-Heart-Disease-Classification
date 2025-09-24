@@ -1,8 +1,8 @@
 # CardioSense-An-ML-Approach-to-Heart-Disease-Classification (Using Sklearn workflow)
 
-- This project uses machine learning to classify whether a patient has heart disease, based on clinical features like age, sex, chest pain type, and max heart rate.  
+- **This project uses machine learning to classify whether a patient has heart disease, based on clinical features like age, sex, chest pain type, and max heart rate.  
 - Built with Scikit-learn, it follows a full ML workflow: data cleaning, exploratory analysis, model training, hyperparameter tuning, and evaluation.
-
+**
 ---
 
 ## Dataset
